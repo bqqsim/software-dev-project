@@ -3562,6 +3562,8 @@ input, select, textarea {
 			min-height: 100%;
 			opacity: 1;
 			width: 100%;
+			float: top;
+			
 		}
 
 			body.is-ie #sidebar > .inner {

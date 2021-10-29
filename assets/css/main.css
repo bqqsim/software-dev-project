@@ -3563,7 +3563,7 @@ input, select, textarea {
 			opacity: 1;
 			width: 100%;
 			float: top;
-			
+
 		}
 
 			body.is-ie #sidebar > .inner {
@@ -3588,6 +3588,7 @@ input, select, textarea {
 				opacity: 1;
 				padding: 0;
 				position: relative;
+				float: top;
 			}
 
 				#sidebar nav > ul > li:first-child {

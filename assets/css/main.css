@@ -3527,7 +3527,7 @@ input, select, textarea {
 		background: #312450;
 		cursor: default;
 		height: 100vh;
-		left: 0;
+		/*left: 0;*/
 		overflow-x: hidden;
 		overflow-y: auto;
 		position: fixed;
